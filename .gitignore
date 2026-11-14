@@ -1,0 +1,46 @@
+# Keil 构建产物
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.sct
+*.htm
+*.build_log.htm
+*.iex
+
+# Keil 个人配置（保留 .uvprojx，不提交布局/调试设置）
+*.uvoptx
+*.uvguix.*
+*.uvgui.*
+
+# 调试器
+JLinkSettings.ini
+*.jlink
+*.ini
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时与备份
+*.bak
+*.tmp
+*.log
+*.orig
+*~
+*.swp
+*.zip
+*.7z
+*.rar
+
