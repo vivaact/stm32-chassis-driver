@@ -32,4 +32,4 @@ Serial port used for data exchange between STM32 and upper computer.
 ```
 
 ## License
-This project is for personal learning purpose.
+MIT License
