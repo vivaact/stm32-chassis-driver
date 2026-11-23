@@ -16,7 +16,7 @@ Listings/
 *.build_log.htm
 *.iex
 
-# Keil 个人配置（保留 .uvprojx，不提交布局/调试设置）
+# Keil个人配置
 *.uvoptx
 *.uvguix.*
 *.uvgui.*
